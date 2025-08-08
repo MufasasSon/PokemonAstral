@@ -1,0 +1,116 @@
+1.	 Design overarching game structure
+1.1.	☐  Story
+1.1.1.	☐  Starting character
+1.1.2.	☐  Storyline enemy
+1.1.3.	☐  Extra character (rival/childhood friend)
+1.2.	☐  Geography
+1.2.1.	☐  Home/Starting area
+1.2.2.	☐  Mountains (surface)
+1.2.3.	☐  Space
+1.2.4.	☐  Oceans
+1.2.5.	☐  Mountains (underground)
+1.2.6.	☐  Sky
+1.3.	☐  Region concepts
+1.3.1.	☐  Physics
+1.3.2.	☐  Visuals
+1.3.3.	☐  Atmospheric conditions
+1.4.	☐  Types and their strengths/weaknesses
+1.4.1.	☐  Astral (space-based)
+1.4.1.1.	S: chrono/spectral (timing and ghostly energies are hard to control in the vastness of space)
+1.4.1.2.	W: primal (the raw power of nature can disrupt cosmic forces)
+1.4.2.	☐  Chrono (time-based)
+1.4.2.1.	S: primal/magnet (time manipulation can control natural forces and disrupt electromagnetic systems)
+1.4.2.2.	W: astral/spectral (space-time is fragile and hard to control when faced with cosmic or supernatural forces)
+1.4.3.	☐  Spectral (phase-shift) 
+1.4.3.1.	S: astral/magnet (they can pass through space and metal, disrupting physical and gravitational forces)
+1.4.3.2.	W: chrono/primal (though intangible, they cannot escape the grip of time and natural forces they exist in)
+1.4.4.	☐  Magnetic (magnets/electromagnets) 
+1.4.4.1.	S: chrono/spectral (time and ghosts are affected by magnetic fields and can be trapped or hindered by electromagnetic pulses)
+1.4.4.2.	W: primal/astral (raw natural forces or cosmic powers can overpower magnetic manipulation)
+1.4.5.	☐  Primal (Pure nature/elemental) 
+1.4.5.1.	S: spectral/magnet (natural forces can overpower ethereal or electromagnetic entities)
+1.4.5.2.	W: astral/chrono (time and cosmic forces disrupt primal energies, rendering them less effective)
+1.4.6.	☐  Lumen (light/energy) 
+1.4.6.1.	S: spectral/magnet (light pierces through shadows, and electromagnetic fields are disrupted by intense energy)
+1.4.6.2.	W: primal/astral (natural forces or cosmic entities may disrupt the clarity and focus of light)
+2.	 Pokemon Design (typing, abilities, stats, and moves)
+2.1.	☐  Start with 5-10 base pokemon per type
+2.2.	☐  Create 2x evolutions for each
+2.3.	☐  Unique starters
+2.4.	☐  Legendary concept
+3.	☐   ‘Tutorial’ NPCs
+4.	 Install Pokémon Essentials and RPG Maker XP
+5.	 Download tools for ROM hacking
+6.	 Sketch out the map of your region
+7.	 Write scripts for key events and interactions in the game
+8.	 Create sprites for at least 5 Pokémon (or variants)
+9.	 Define moves, stats, and abilities for at least 5 Pokémon
+10.	 Program basic battle mechanics
+11.	 Design at least one unique game mechanic
+12.	 Test the game for bugs, errors, and broken scripts
+13.	 Get feedback from testers and make improvements
+14.	 Create or source music and final graphics for the game
+15.	 Prepare the final version for release
+
+Step 1: Conceptualizing Your Game
+•	Choose Your Game's Region and Story:
+o	Develop a unique region with its own culture, geography, and challenges.
+o	Think about the plot. Is it traditional or does it introduce something new (e.g., darker themes, new objectives)?
+o	Checkbox: Create an outline for your region and story.
+•	New Pokémon or Regional Variants:
+o	Will you design new Pokémon species or create regional forms for existing ones?
+o	Design your own Pokémon with their typing, abilities, stats, and moves.
+Step 2: Choose Your Tools
+•	Pokémon Essentials (for RPG Maker XP):
+o	Pokémon Essentials is the most popular fan game creation tool, offering everything you need to create a game from scratch (map editing, sprite creation, etc.).
+o	Tutorial: Pokémon Essentials Guide
+o	Checkbox: Install Pokémon Essentials and RPG Maker XP.
+•	ROM Hacking (for modifying existing games):
+o	You can hack existing Pokémon games (like FireRed, Emerald, or Ruby) to create a new story, new Pokémon, and other modifications.
+o	Tools: AdvanceMap for map editing, Lunar IPS for patching ROMs.
+o	Checkbox: Download tools for ROM hacking (e.g., AdvanceMap, Lunar IPS).
+Step 3: Designing Your Game
+•	Maps and Towns:
+o	Design your region’s map using the mapping tools available in Pokémon Essentials or the ROM hacking tools.
+o	Think about how towns, cities, and routes will flow, how you’ll introduce gyms or other challenges.
+o	Checkbox: Sketch out the map of your region and locations of towns and cities.
+•	Script Your Story and Dialogue:
+o	Create the dialogue for key story moments, including interactions with NPCs, the player’s rival, gym leaders, and the villainous team.
+o	Checkbox: Write scripts for key events and interactions in the game.
+Step 4: Designing Pokémon
+•	Sprites and Art:
+o	Create custom sprites for your Pokémon using pixel art software like Aseprite or Photoshop.
+o	For trainers, gym leaders, and characters, design custom sprites to fit your story.
+o	Checkbox: Create sprites for at least 5 Pokémon (or variants) and key characters.
+•	Moves, Stats, and Abilities:
+o	Design the stats, movesets, and abilities for each Pokémon in your game.
+o	Think about how new abilities or moves will affect battle strategy.
+o	Checkbox: Define moves, stats, and abilities for at least 5 Pokémon.
+Step 5: Programming Mechanics and Features
+•	Battle System:
+o	If you’re using Pokémon Essentials, the battle system is largely pre-set, but you can tweak it to suit your game. If you want a more custom system, you might need to code it.
+o	Checkbox: Program basic battle mechanics (turn-based, stat changes, etc.).
+•	New Mechanics and Features:
+o	Want to add something unique? Examples include custom battle mechanics, region-specific mechanics (like Alola's regional forms or Mega Evolution).
+o	Checkbox: Design at least one unique game mechanic (new battle system, evolutions, etc.).
+Step 6: Testing and Debugging
+•	Playtesting:
+o	Play through the game multiple times to ensure everything is working as expected. This includes checking for broken events, bugs, and other issues.
+o	Checkbox: Test the game for bugs, errors, and broken scripts.
+•	User Feedback:
+o	Share your progress with a small group of testers to get feedback on gameplay, story, and mechanics.
+o	Checkbox: Get feedback from testers and make improvements.
+Step 7: Polishing and Releasing
+•	Final Graphics and Music:
+o	Add finishing touches to your game’s graphics, including custom tilesets, environment effects, and background music.
+o	Checkbox: Create or source music and final graphics for the game.
+•	Launch Your Game:
+o	Once you’ve polished everything, it’s time to release your game! You can host it on fan game websites or share it through a download link.
+o	Checkbox: Prepare the final version for release (documentation, patching).
+________________________________________
+Additional Resources:
+•	Forums and Communities:
+o	PokeCommunity: Great for sharing your game, getting feedback, and finding resources. PokeCommunity Forum
+o	Relic Castle: Focuses on fan-made Pokémon games and game development. Relic Castle
+Pokémon Showdown: Use it to test your game’s mechanics and battle system
+
